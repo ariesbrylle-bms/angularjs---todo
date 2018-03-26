@@ -1,9 +1,9 @@
-create database aries_db;
+create database myNotes;
 
 create table todo_notes
 (
-	id int auto_increment,
-	type varchar(25),
+    id int auto_increment,
+    type varchar(25),
     title varchar(50),
     description text,
     is_active TINYINT(1) DEFAULT 1,

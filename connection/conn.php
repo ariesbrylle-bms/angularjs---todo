@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$database = "aries_db";
+$database = "myNotes";
 
 // Create connection
 $link = new mysqli($servername, $username, $password, $database);

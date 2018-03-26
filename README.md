@@ -1,1 +1,3 @@
-# some-of-my-projects
+# simple todo and notes application
+
+# Using Native PHP, AngularJS, and API
